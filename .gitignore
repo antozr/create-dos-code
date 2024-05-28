@@ -6,3 +6,6 @@
 *.sh
 *.bash
 
+# log
+.git
+
